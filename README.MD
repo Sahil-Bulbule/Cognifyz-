@@ -6,7 +6,7 @@ This repository contains the projects and tasks completed during my Python Devel
 
 ### Level 1
 
-- 🔢 Calculator
+- 🔢 Calculator   
 - 🌡️ Temperature Conversion Tool
 - 🔄 String Reversal Program
 - 🔍 Palindrome Checker
@@ -40,7 +40,7 @@ This repository contains the projects and tasks completed during my Python Devel
 
 ## 👨‍💻 Author
 
-**Sahil Bulbule**
+**Sahil**
 
 GitHub: github.com/Sahil-Bulbule
 
