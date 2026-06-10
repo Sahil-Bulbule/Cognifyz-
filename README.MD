@@ -1,6 +1,6 @@
 # 🚀 Cognifyz Technologies - Python Development Internship
 
-This repository contains the projects and tasks completed during my Python Development Internship at Cognifyz Technologies.
+This repository contains the projects and tasks completed during my Python Development Internship at Cognifyz Technologies.   
 
 ## 📌 Internship Tasks
 
