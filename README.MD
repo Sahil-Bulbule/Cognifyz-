@@ -12,7 +12,7 @@ This repository contains the projects and tasks completed during my Python Devel
 - 🔍 Palindrome Checker
 - 🔐 Password Validator    
      
-### Level 2
+### Level 2   
 
 - 🌀 Fibonacci Sequence Generator  
 - 📂 File Manipulation Program
