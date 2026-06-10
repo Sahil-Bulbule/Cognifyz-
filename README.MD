@@ -13,7 +13,7 @@ This repository contains the projects and tasks completed during my Python Devel
 - 🔐 Password Validator      
      
 ### Level 2     
-
+ 
 - 🌀 Fibonacci Sequence Generator  
 - 📂 File Manipulation Program
 - 🎯 Guessing Game  
