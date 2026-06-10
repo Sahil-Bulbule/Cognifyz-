@@ -14,7 +14,7 @@ This repository contains the projects and tasks completed during my Python Devel
      
 ### Level 2
 
-- 🌀 Fibonacci Sequence Generator
+- 🌀 Fibonacci Sequence Generator  
 - 📂 File Manipulation Program
 - 🎯 Guessing Game
 - 🔢 Number Guesser
