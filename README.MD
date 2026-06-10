@@ -16,7 +16,7 @@ This repository contains the projects and tasks completed during my Python Devel
 
 - 🌀 Fibonacci Sequence Generator  
 - 📂 File Manipulation Program
-- 🎯 Guessing Game
+- 🎯 Guessing Game  
 - 🔢 Number Guesser
 - 🛡️ Password Strength Checker
 
