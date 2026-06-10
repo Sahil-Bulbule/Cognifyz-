@@ -10,7 +10,7 @@ This repository contains the projects and tasks completed during my Python Devel
 - 🌡️ Temperature Conversion Tool
 - 🔄 String Reversal Program 
 - 🔍 Palindrome Checker
-- 🔐 Password Validator
+- 🔐 Password Validator  
      
 ### Level 2
 
