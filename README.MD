@@ -8,7 +8,7 @@ This repository contains the projects and tasks completed during my Python Devel
 
 - 🔢 Calculator   
 - 🌡️ Temperature Conversion Tool
-- 🔄 String Reversal Program
+- 🔄 String Reversal Program 
 - 🔍 Palindrome Checker
 - 🔐 Password Validator
 
